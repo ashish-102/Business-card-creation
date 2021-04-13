@@ -1,0 +1,29 @@
+﻿.footerlinks1 {
+    color: #000000;
+    text-decoration: none !important;
+}
+
+    .footerlinks1:hover {
+        color: #ffd800;
+    }
+
+.footerlinks {
+    color: #ffffff;
+    text-decoration: none !important;
+}
+
+#footer1 {
+    background: #c4c3be;
+}
+
+#footer2 {
+    background: #2b2b2a;
+}
+
+#space {
+    padding-left: .85rem;
+}
+
+.company{
+
+}
